@@ -6,6 +6,7 @@ from tools.read_json import read_json
 from tools.assert_common import assert_common
 from parameterized import parameterized
 
+
 class TestEmployee(unittest.TestCase):
     # 初始化
     @classmethod
